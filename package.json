@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muzikayise Flynn Buthelezi (zuluCoda)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "monq": "^0.3.7"
+  }
 }
